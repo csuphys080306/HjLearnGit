@@ -1,2 +1,5 @@
 This is a first file used to study git.
 Now let`s begin.
+
+Git is a distributed version control system.
+Git is free software.
