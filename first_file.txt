@@ -1,0 +1,2 @@
+This is a first file used to study git.
+Now let`s begin.
